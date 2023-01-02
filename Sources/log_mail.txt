@@ -1,0 +1,10 @@
+<:220 mwinf5d68 ME ESMTP server ready
+>:HELO DELL-RV
+<:250 mwinf5d68 hello [80.15.162.157], pleased to meet you
+>:MAIL FROM:<helene.festoc@kalitech.fr>
+<:550 5.1.0 Authentification requise. Authentication Required. OFR102_402 [402]
+<:220 mwinf5d68 ME ESMTP server ready
+>:HELO DELL-RV
+<:250 mwinf5d68 hello [80.15.162.157], pleased to meet you
+>:MAIL FROM:<helene.festoc@kalitech.fr>
+<:550 5.1.0 Authentification requise. Authentication Required. OFR102_402 [402]

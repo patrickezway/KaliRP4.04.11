@@ -1,0 +1,10 @@
+Modbc = 0, 0, 691, 401, 
+MCommon = 88, 116, 779, 517, 
+MSaisie = 0, 0, 0, 0, C
+Module1 = 110, 145, 823, 516, 
+Saisie = 0, 0, 0, 0, C, 22, 29, 735, 400, C
+MTreeView = 0, 0, 0, 0, C
+LanceRapportType = 0, 0, 713, 371, Z, 110, 145, 823, 516, C
+File = 0, 0, 0, 0, C
+HttpIO = 0, 0, 0, 0, C
+Wininet = 0, 0, 0, 0, C

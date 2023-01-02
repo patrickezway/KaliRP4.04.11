@@ -1,0 +1,7 @@
+PerlSetVar AuthFile /mdp/pwd
+AuthName "Espace Clients"
+AuthType Basic
+
+<limit GET POST>
+require user BETHUNE
+</limit>
